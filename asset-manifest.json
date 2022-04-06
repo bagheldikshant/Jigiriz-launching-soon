@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Jigiriz-launching-soon/static/css/main.b9219b8f.css",
+    "main.js": "/Jigiriz-launching-soon/static/js/main.759287cf.js",
+    "static/js/787.ca349b10.chunk.js": "/Jigiriz-launching-soon/static/js/787.ca349b10.chunk.js",
+    "static/media/coming-soon-bg.webp": "/Jigiriz-launching-soon/static/media/coming-soon-bg.41817ef1c3bae732459b.webp",
+    "static/media/leaf.webp": "/Jigiriz-launching-soon/static/media/leaf.7d6e2d72d2628cbefcc8.webp",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Jigiriz-launching-soon/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/almonds.webp": "/Jigiriz-launching-soon/static/media/almonds.c7acb1d0509b24f751ae.webp",
+    "static/media/cashew.webp": "/Jigiriz-launching-soon/static/media/cashew.b8bbcb315b7d2b6c2870.webp",
+    "static/media/footer-bg.webp": "/Jigiriz-launching-soon/static/media/footer-bg.8ef896043884740d9421.webp",
+    "static/media/fontawesome-webfont.eot": "/Jigiriz-launching-soon/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Jigiriz-launching-soon/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Jigiriz-launching-soon/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Jigiriz-launching-soon/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/hazelnut.webp": "/Jigiriz-launching-soon/static/media/hazelnut.815fa099c768052631ff.webp",
+    "static/media/dropdown.png": "/Jigiriz-launching-soon/static/media/dropdown.4ab36c8ee8eb95f05d84.png",
+    "static/media/Jigiriz-logo.png": "/Jigiriz-launching-soon/static/media/Jigiriz-logo.e0b932d660a08c10b7bf.png",
+    "index.html": "/Jigiriz-launching-soon/index.html",
+    "main.b9219b8f.css.map": "/Jigiriz-launching-soon/static/css/main.b9219b8f.css.map",
+    "main.759287cf.js.map": "/Jigiriz-launching-soon/static/js/main.759287cf.js.map",
+    "787.ca349b10.chunk.js.map": "/Jigiriz-launching-soon/static/js/787.ca349b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9219b8f.css",
+    "static/js/main.759287cf.js"
+  ]
+}
