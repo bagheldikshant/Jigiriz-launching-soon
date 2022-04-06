@@ -4,7 +4,7 @@ export default function CustomerReviews() {
   return (
     <section>
       <div class="row customer-reviews-section">
-        <div class="col-lg-3.5 col-xs-12 customer-reviews-heading">
+        <div class="col-lg-3.5 col-xs-10 customer-reviews-heading">
           <p>CUSTOMER REVIEWS</p>
         </div>
         <div class="col-lg-7">
