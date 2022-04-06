@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Jigiriz-launching-soon/static/css/main.b9219b8f.css",
-    "main.js": "/Jigiriz-launching-soon/static/js/main.759287cf.js",
+    "main.css": "/Jigiriz-launching-soon/static/css/main.71de4011.css",
+    "main.js": "/Jigiriz-launching-soon/static/js/main.7983b068.js",
     "static/js/787.ca349b10.chunk.js": "/Jigiriz-launching-soon/static/js/787.ca349b10.chunk.js",
     "static/media/coming-soon-bg.webp": "/Jigiriz-launching-soon/static/media/coming-soon-bg.41817ef1c3bae732459b.webp",
     "static/media/leaf.webp": "/Jigiriz-launching-soon/static/media/leaf.7d6e2d72d2628cbefcc8.webp",
@@ -17,12 +17,12 @@
     "static/media/dropdown.png": "/Jigiriz-launching-soon/static/media/dropdown.4ab36c8ee8eb95f05d84.png",
     "static/media/Jigiriz-logo.png": "/Jigiriz-launching-soon/static/media/Jigiriz-logo.e0b932d660a08c10b7bf.png",
     "index.html": "/Jigiriz-launching-soon/index.html",
-    "main.b9219b8f.css.map": "/Jigiriz-launching-soon/static/css/main.b9219b8f.css.map",
-    "main.759287cf.js.map": "/Jigiriz-launching-soon/static/js/main.759287cf.js.map",
+    "main.71de4011.css.map": "/Jigiriz-launching-soon/static/css/main.71de4011.css.map",
+    "main.7983b068.js.map": "/Jigiriz-launching-soon/static/js/main.7983b068.js.map",
     "787.ca349b10.chunk.js.map": "/Jigiriz-launching-soon/static/js/787.ca349b10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9219b8f.css",
-    "static/js/main.759287cf.js"
+    "static/css/main.71de4011.css",
+    "static/js/main.7983b068.js"
   ]
 }
